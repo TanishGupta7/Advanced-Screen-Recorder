@@ -1,9 +1,3 @@
-# ************************ The required packages ************************
-# pip install opencv-python
-# pip install pywin32
-# pip install numpy
-# pip install pyautogui
-
 import cv2
 import pyautogui
 from win32api import GetSystemMetrics
